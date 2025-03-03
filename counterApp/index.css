@@ -1,0 +1,54 @@
+body {
+    background-image: url('https://cdn.myportfolio.com/e88ace46-7f48-4bb5-ba08-e09db8a2003b/744a803d-1051-4d8d-a893-15bf5e80681a_car_4x3.jpg?h=1db04385c750dd2ba203c4814cb01e1d');
+    background-size: cover;
+    font-family: Roboto 'Segoe UI', BlinkMacSystemFont, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    border: 3px solid darkgray;
+    margin: 0 auto;
+    width: 50%;
+    max-width: 500px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #bb99ff;
+}
+
+#save-btn {
+    background: lightblue;
+}
+
+#save-el {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
